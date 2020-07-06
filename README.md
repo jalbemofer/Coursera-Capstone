@@ -1,2 +1,2 @@
 # Coursera-Capstone
-This is an new example to create a repository
+This is an exercise for add a Notebook to a repository
